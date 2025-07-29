@@ -8,6 +8,9 @@ Model the robot arm using Denavit–Hartenberg parameters and verify with a cust
 - Generate realistic trajectories using point-to-point and cosine-interpolation methods.
 - Build full robot animations for book pickup and placement including intermediate reorientation steps.
 
+<img width="1988" height="1536" alt="Isometric View Render" src="https://github.com/user-attachments/assets/7e933257-0f6c-4243-b584-b69d7d28d6e0" />
+
+
 Cloning the Repository
 
 To start working on the project, first, clone the repository to your local machine.
