@@ -1,6 +1,8 @@
 This coursework implements forward and inverse kinematics, trajectory generation, and collision-aware control of a 4-DOF robotic arm. Using MATLAB and the Robotics Toolbox, the robot autonomously navigates a simulated library to retrieve and shelve books with precision. The project emphasizes analytical IK solutions, optimized grasping strategies, and fluid animation control.
 
-📌 Tasks:
+---
+
+## 📌 Tasks:
 Model the robot arm using Denavit–Hartenberg parameters and verify with a custom URDF.
 
 - Solve inverse kinematics analytically to reach book positions and place them on designated shelves.
@@ -8,11 +10,11 @@ Model the robot arm using Denavit–Hartenberg parameters and verify with a cust
 - Generate realistic trajectories using point-to-point and cosine-interpolation methods.
 - Build full robot animations for book pickup and placement including intermediate reorientation steps.
 
+---
+
 <img width="1988" height="1536" alt="Isometric View Render" src="https://github.com/user-attachments/assets/7e933257-0f6c-4243-b584-b69d7d28d6e0" />
 
-
-
-
+---
 
 Cloning the Repository
 
